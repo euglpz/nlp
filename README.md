@@ -1,4 +1,4 @@
-# nlp
+# Instrucciones para correr el proyecto
 
 1. Descargar el proyecto desde <> Code -> Download ZIP
 2. Extraerlo en su PC (la carpeta se llamará nlp-main, dentro de ella tp1_nlp) 
