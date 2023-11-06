@@ -9,4 +9,4 @@
 7. Y dentro de él instalamos los requerimientos: pip install -r .\requirements.txt
 8. Nos movemos a la carpeta src: cd sr
 9. Corremos python: python
-10. Y por último abrimos el práctivo tp1_nlp
+10. Y por último abrimos el práctivo tp1_nlp.ipynb
