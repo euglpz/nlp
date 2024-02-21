@@ -1,3 +1,31 @@
+TUIA - Procesamiento del Lenguaje Natural 
+
+En este proyecto se lograron desarrollar estos 5 ejercicios:
+
+1) Construir un dataset haciendo web scraping de páginas web de su elección.
+   
+* Definir 4 categorías de noticias/artículos.
+* Para cada categoría, extraer los siguientes datos de 10 noticias diferentes:
+
+ -url (sitio web donde se publicó el artículo)
+ -título (título del artículo)
+-texto (contenido del artículo)
+
+2) Utilizando los datos de título y categoría del dataset del ejercicio anterior, entrenar un
+modelo de clasificación de noticias en categorías específicas.
+
+3) Para cada categoría, realizar las siguientes tareas:
+   
+* Procesar el texto mediante recursos de normalización y limpieza.
+* Con el resultado anterior, realizar conteo de palabras y mostrar la importancia de las
+mismas mediante una nube de palabras.
+
+4) Usar modelos de embeddings para evaluar la similitud entre los títulos de las noticias de una de las categorías.
+
+5) Escribir un programa interactivo que, según la categoría seleccionada por el usuario,
+devuelva un resumen de las noticias incluidas en ella.
+
+
 # Instrucciones para correr el proyecto
 
 1. Descargar el proyecto desde <> Code -> Download ZIP
